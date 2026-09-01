@@ -56,3 +56,4 @@ wechat：wy507930
 <img width="3840" height="2160" alt="web-image_首页" src="https://github.com/user-attachments/assets/4abdd8bc-2365-40ce-918f-0df7fe7fa10c" />
 <img width="3840" height="2160" alt="web-image_任务统计" src="https://github.com/user-attachments/assets/a7daa5fb-6d5a-4f86-ba54-5eb93d13963e" />
 <img width="3840" height="2160" alt="web-image_入驻审核" src="https://github.com/user-attachments/assets/b03a5f98-8f96-4445-8260-834636f918c5" />
+<img width="1440" height="1440" alt="主图4" src="https://github.com/user-attachments/assets/3d46a4ad-3782-4109-adb6-fc6c5bc65749" />
